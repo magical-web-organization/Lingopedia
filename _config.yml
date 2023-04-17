@@ -10,7 +10,7 @@ author: Lingopedia Wiki
 
 ### Build settings ###
 
-url: http://localhost
+url: https://lingopedia.wiki
 
 # Required on GH Pages to enable plugins.
 plugins:
