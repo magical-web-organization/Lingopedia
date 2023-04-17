@@ -1,0 +1,13 @@
+.sass-cache/
+
+.bundle/
+vendor/
+
+_site/
+
+*.gem
+Gemfile.lock
+
+simple-icons/
+raw
+new 1.txt

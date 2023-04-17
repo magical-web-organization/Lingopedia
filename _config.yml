@@ -1,0 +1,59 @@
+### Site metadata ###
+
+title: Lingopedia Wiki
+description: A grammar encyclopedia, for multiple languages.
+google_analytics: G-KHCLPKDZJS
+
+author: Lingopedia Wiki
+#rss: RSS
+
+### Build settings ###
+
+url: http://localhost
+
+# Required on GH Pages to enable plugins.
+plugins:
+  - jekyll-sitemap
+
+# - jekyll-feed // head.html includes.
+
+# Some values below borrowed from minima theme.
+
+show_excerpts: false
+
+fractal:
+  date_format: "%b %-d, %Y"
+
+titles_from_headings:
+  strip_title: true
+
+header_pages:
+  - index.md
+  - demo/index.md
+  - logos.md
+  - flexbox.md
+  - table-demo.md
+  - cli-demo.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+exclude:
+  - bin/
+  - docs/
+  - hooks/
+  - simple-icons/
+  - vendor/
+  - Gemfile
+  - LICENSE
+  - Makefile
+  - fractal.gemspec
+  - "*.gem"
+  - README.md
+
+# This is only needed in the theme itself so that it builds with Jekyll 3 (see
+# head.html), but without actually using the Remote Theme plugin.
+remote_theme: ""
