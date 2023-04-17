@@ -1,8 +1,8 @@
 ---
-title: "How to Say \"I Love You\" in Japanese: Expressing Love"
-description: Want to express your love in Japanese? Learn how to say \"I love you\" and other romantic phrases in Japanese with this comprehensive guide.
+title: How to Say "I Love You" in Japanese: Expressing Love
+description: Want to express your love in Japanese? Learn how to say "I love you" and other romantic phrases in Japanese with this comprehensive guide.
 date: 2023-04-11 13:54:01 +0300
-last_modified_at: 2023-04-11 13:54:01 +0300
+last_modified_at: 2023-04-17 18:57:39 +0300
 slug: how-to-say-i-love-you-in-japanese-expressing-love
 original: "How to say \"I love you\" in Japanese: Expressing Love"
 ---
@@ -18,11 +18,11 @@ If you want to express your love in a more informal way or with friends and fami
 
 Beyond "I love you," there are several romantic phrases you may want to learn in Japanese. Here are some examples:
 
-- "あなたがいてくれて幸せです" (Anata ga ite kurete shiawase desu) - "I'm happy you're here with me"
-- "ずっと一緒にいたい" (Zutto issho ni itai) - "I want to be with you forever"
-- "キスして" (Kisu shite) - "Kiss me"
-- "愛してるよ" (Aishiteru yo) - "I love you"
-- "ただひとつ、あなたと結婚したい" (Tada hitotsu, anata to kekkon shitai) - "I want to marry you and only you"
+* "あなたがいてくれて幸せです" (Anata ga ite kurete shiawase desu) - "I'm happy you're here with me"
+* "ずっと一緒にいたい" (Zutto issho ni itai) - "I want to be with you forever"
+* "キスして" (Kisu shite) - "Kiss me"
+* "愛してるよ" (Aishiteru yo) - "I love you"
+* "ただひとつ、あなたと結婚したい" (Tada hitotsu, anata to kekkon shitai) - "I want to marry you and only you"
 
 ## Nonverbal Communication
 

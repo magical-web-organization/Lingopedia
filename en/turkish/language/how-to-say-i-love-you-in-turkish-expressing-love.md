@@ -1,8 +1,8 @@
 ---
-title: How to Say \"I love you\" in Turkish, Expressing Love
-description: Learn how to say \"I love you\" in Turkish and express your love in different ways to your loved ones.
+title: How to Say "I love you" in Turkish, Expressing Love
+description: Learn how to say "I love you" in Turkish and express your love in different ways to your loved ones.
 date: 2023-04-11 22:26:06 +0300
-last_modified_at: 2023-04-11 22:26:06 +0300
+last_modified_at: 2023-04-17 18:58:38 +0300
 slug: how-to-say-i-love-you-in-turkish-expressing-love
 original: How to Say \"I love you\" in Turkish, Expressing Love
 ---
@@ -10,12 +10,12 @@ When it comes to expressing love, words play a significant role in conveying you
 
 ## How to Say "I Love You" in Turkish
 
-The most common way to say "I love you" in Turkish is "Seni Seviyorum." This phrase is pronounced as "sen-ee sev-ee-your-um." 
+The most common way to say "I love you" in Turkish is "Seni Seviyorum." This phrase is pronounced as "sen-ee sev-ee-your-um."
 
-Here's the breakdown of the pronunciation: 
+Here's the breakdown of the pronunciation:
 
-- "Seni" means "you" 
-- "Seviyorum" means "I love" 
+* "Seni" means "you"
+* "Seviyorum" means "I love"
 
 If you want to make the phrase more romantic, you can add "çok" at the end, which means "a lot." As a result, the phrase becomes "Seni çok seviyorum," pronounced as "sen-ee chok sev-ee-your-um."
 
@@ -25,7 +25,7 @@ Besides saying "I love you," there are numerous ways to express love in Turkish.
 
 ### Sözlerim Sana (My Words Are for You)
 
-This phrase is used to express that your words and sayings are only for your loved one. You can say it as "Sözlerim sana," pronounced as "söz-ler-im sa-na." 
+This phrase is used to express that your words and sayings are only for your loved one. You can say it as "Sözlerim sana," pronounced as "söz-ler-im sa-na."
 
 ### Gözlerim Dolu (My Eyes Are Full)
 

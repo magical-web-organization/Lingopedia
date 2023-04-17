@@ -1,8 +1,8 @@
 ---
-title: "How to Say \"I Love You\" in French: Expressing Love"
-description: Learn how to express love in French by knowing the different ways to say \"I love you\" in the language of love. This comprehensive guide will help you understand the different contexts and emotions behind various expressions of love in French.
+title: How to Say "I Love You" in French: Expressing Love
+description: Learn how to express love in French by knowing the different ways to say "I love you" in the language of love. This comprehensive guide will help you understand the different contexts and emotions behind various expressions of love in French.
 date: 2023-04-11 11:13:58 +0300
-last_modified_at: 2023-04-11 11:13:58 +0300
+last_modified_at: 2023-04-17 18:56:17 +0300
 slug: how-to-say-i-love-you-in-french-expressing-love
 original: How to say I love you in French, expressing love
 ---

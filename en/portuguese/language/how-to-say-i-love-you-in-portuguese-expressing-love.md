@@ -1,8 +1,8 @@
 ---
-title: "How to Say \"I Love You\" in Portuguese: Expressing Love"
-description: Learn how to express love in Portuguese, from saying \"I love you\" to other romantic phrases and traditions.
+title: How to Say "I Love You" in Portuguese: Expressing Love
+description: Learn how to express love in Portuguese, from saying "I love you" to other romantic phrases and traditions.
 date: 2023-04-11 21:36:14 +0300
-last_modified_at: 2023-04-11 21:36:14 +0300
+last_modified_at: 2023-04-17 18:58:03 +0300
 slug: how-to-say-i-love-you-in-portuguese-expressing-love
 original: How to Say \"I love you\" in Portuguese, Expressing Love
 ---
@@ -13,9 +13,10 @@ Love is a universal language, but expressing your affection in different languag
 The most common way to express love in Portuguese is by saying "Eu te amo." This phrase is equivalent to "I love you" in English and is used in all Portuguese-speaking countries.
 
 Here's how to pronounce it:
-- "eu" (pronounced "eh-oo") – like the English word "you" but with an "eh" sound at the beginning
-- "te" (pronounced "chee") – like the English word "she" but with a "ch" sound at the beginning
-- "amo" (pronounced "ah-moo") – like the English word "ammo" but with an "ah" sound at the beginning
+
+* "eu" (pronounced "eh-oo") – like the English word "you" but with an "eh" sound at the beginning
+* "te" (pronounced "chee") – like the English word "she" but with a "ch" sound at the beginning
+* "amo" (pronounced "ah-moo") – like the English word "ammo" but with an "ah" sound at the beginning
 
 So, put it all together and you get "eu te amo" (pronounced "eh-oo chee ah-moo").
 
@@ -41,10 +42,10 @@ In Portuguese-speaking countries, taking a romantic walk with your partner is a 
 
 If you want to expand your Portuguese vocabulary, here are a few romantic phrases you can use:
 
-- "Você é o amor da minha vida" ("You are the love of my life")
-- "Eu não posso viver sem você" ("I can't live without you")
-- "Você me faz tão feliz" ("You make me so happy")
-- "Você é minha alma gêmea" ("You are my soul mate")
-- "Eu te amo mais a cada dia" ("I love you more every day")
+* "Você é o amor da minha vida" ("You are the love of my life")
+* "Eu não posso viver sem você" ("I can't live without you")
+* "Você me faz tão feliz" ("You make me so happy")
+* "Você é minha alma gêmea" ("You are my soul mate")
+* "Eu te amo mais a cada dia" ("I love you more every day")
 
 By learning these phrases, you can express your love in Portuguese beyond just saying "I love you." With some dedication and practice, you can become more comfortable and confident expressing your affections in this beautiful language.
